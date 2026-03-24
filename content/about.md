@@ -2,8 +2,6 @@
 
 Exit the logic, Enter the life.  
 走出逻辑，进入生活。  
-Reject mediocrity, live brilliantly.  
-拒绝平庸，活出精彩。
 
 ## 关于我
 
