@@ -1,7 +1,7 @@
 ![avatar](./assets/images/01.png)
 Kingsley Qi
-工业自动化 × IT基础设施 × 系统解决方案
-Industrial Automation × IT Infrastructure × System Solutions
+工业IT · 系统集成 · 制造业数字化
+Industrial IT · System Integration · Manufacturing Digital
 
 - Email: i@kingsleyqi.com
 - Phone: +63 960864508*
