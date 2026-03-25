@@ -6,15 +6,15 @@ Exit the logic, Enter the life.
 ## 关于我
 
 长期深耕工业自动化、工业物联网与办公自动化领域，曾在制造业集团及教育机构担任信息化领导岗位，深刻意识到信息化必须以生产制造为核心。  
-
+  
 2025年起主动回归制造一线，担任非标自动化运维工程师，专注将信息化能力、数据闭环与AI技术真正落地到产线级重构。  
-
+  
 现居菲律宾八打雁省，致力于探索AI驱动的数据支撑、自动化生产与无灯工厂体系，实现从底层基础设施到业务流程的系统级进化。  
-
+  
 Deeply experienced in Industrial Automation, Industrial IoT, and Office Automation. Having held IT leadership roles in manufacturing groups and educational institutions, I realized that true informatization must be production-centric.   
-
+  
 In 2025, I deliberately returned to the manufacturing frontline as a Non-Standard Automation Equipment Engineer to integrate informatization capabilities, data loops, and AI directly into production-line re-engineering.   
-
+  
 Based in Batangas, Philippines, I am committed to exploring AI-driven data-supported, automated production, and lights-out factory systems, delivering end-to-end evolution from foundational infrastructure to business processes.
 
 ## 核心能力
