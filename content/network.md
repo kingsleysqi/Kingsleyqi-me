@@ -1,4 +1,4 @@
-- [Website / 国际站：kingsleyqi.com](https://kingsleyqi.com) | Personal Sites | 这里凝聚着我的思想 | ./assets/images/project-1.jpg
-- [Website / 中国站：Kingsleyqi.cn](https://kingsleyqi.cn) | Personal Sites | 这里记录着我的生活 | ./assets/images/project-2.jpg
-- [Website / 媒体站：Media.Kingsleyqi.com](https://Media.kingsleyqi.com) | Personal Sites | 这里有我的珍藏 | ./assets/images/project-3.jpg
-- [Website / 业务站：Me.Kingsleyqi.com](https://Me.kingsleyqi.com) | Personal Sites | 这里是我的专长 | ./assets/images/project-4.jpg
+- [Website / Global：Kingsleyqi.com](https://kingsleyqi.com) | Personal Sites | 个人品牌与系统表达平台 | ./assets/images/project-1.jpg
+- [Website / China：Kingsleyqi.cn](https://kingsleyqi.cn) | Personal Sites | 本土内容与生活表达 | ./assets/images/project-2.jpg
+- [Website / Media：Media.Kingsleyqi.com](https://media.kingsleyqi.com) | Personal Sites | 基于 R2 的个人媒体系统 | ./assets/images/project-3.jpg
+- [Website / Systems：Me.Kingsleyqi.com](https://me.kingsleyqi.com) | Personal Sites | 工业自动化 × IT基础设施 的系统能力中枢 | ./assets/images/project-4.jpg
