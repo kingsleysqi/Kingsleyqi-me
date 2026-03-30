@@ -1,121 +1,137 @@
+Markdown
+# Kingsleyqi.me
 
-```markdown
-# Kingsleyqi-me
+个人表达站 / Personal Identity Site
 
-**我的个人品牌介绍站**  
-**me.Kingsleyqi.cn** —— 工业IT · 系统集成 · 制造业数字化
-
-![网站演示](website-demo-image/demo.png)  
-（建议上传一张网站首页截图到 `website-demo-image/` 文件夹，并替换文件名）
-
-### 🌐 在线地址
-
-- **正式站点**：https://me.kingsleyqi.cn
-- **Vercel 演示**：https://kingsleyqi-me.vercel.app
+> Exit the logic, Enter the life.  
+> —— Kingsleyqi
 
 ---
 
-### 📖 项目介绍
+## 📌 项目简介
 
-这是一个简洁、现代的**个人品牌展示网站**，用于介绍 Kingsley Qi 的个人信息、专业背景、技能栈、项目经历以及联系方式。
+Kingsleyqi.me 是一个以 **个人表达、身份展示与内容沉淀** 为核心的独立网站项目。
 
-项目采用纯静态前端技术构建，专注于内容展示与良好阅读体验，适合作为个人主页、简历落地页或品牌介绍站使用。
+不同于传统博客或作品集站点，本项目更强调：
 
-**核心特点**：
-- 响应式设计（手机、平板、桌面完美适配）
-- 简洁现代的 UI 风格
-- 加载速度快（纯静态，无框架依赖）
-- 易于自定义和维护
-- 支持 Vercel / Netlify / GitHub Pages 等平台一键部署
+- **表达（Expression）**：记录思想、状态与认知  
+- **存在（Presence）**：构建长期可持续的个人空间  
+- **系统化（System）**：与 Kingsleyqi 生态站点形成联动  
 
----
+这是一个介于：
 
-### 🛠 技术栈
+- 个人主页（Profile）  
+- 内容站（Content Site）  
+- 思考记录（Thinking Log）  
 
-- **HTML**：12.7%
-- **CSS**：53.0%
-- **JavaScript**：34.3%
-
-纯前端静态站点，无需后端。
+之间的“中间形态”。
 
 ---
 
-### 📁 项目结构
+## 🧭 项目定位
 
-```
-Kingsleyqi-me/
-├── assets/                  # 图片、图标、字体等静态资源
-├── content/                 # Markdown 内容文件（例如 systems.md 等）
-├── website-demo-image/      # 网站演示截图
-├── index.html               # 主页面（我的品牌站）
-├── resume-template.html     # 简历模板页面
-├── LICENSE
-├── README.md
-└── index.txt                # 备用文本文件
-```
+该项目在整体站点体系中的角色：
 
----
+| 站点 | 定位 |
+|------|------|
+| Kingsleyqi.com | 主站 / 品牌表达 |
+| Kingsleyqi.cn | 中文内容 / 本土表达 |
+| Media.* | 媒体内容 / 资源 |
+| Kingsleyqi.me | 个人状态 / 自我表达 / 内在空间 |
 
-### 🚀 快速开始 & 部署
-
-#### 1. 本地运行
-```bash
-git clone https://github.com/kingsleysqi/Kingsleyqi-me.git
-cd Kingsleyqi-me
-```
-直接用浏览器打开 `index.html`，或使用 VS Code Live Server 插件预览。
-
-#### 2. 部署推荐
-- **Vercel**（推荐）：连接 GitHub 仓库即可自动部署
-- 其他平台：Netlify、Cloudflare Pages、GitHub Pages
-
-#### 3. 自定义内容
-- 修改 `index.html` 中的个人信息、技能、经历等部分
-- 在 `content/` 目录中更新 Markdown 内容
-- 替换 `assets/` 中的图片和图标
-- 如需修改样式，主要编辑对应 CSS 文件（位于 assets 或内联样式）
+👉 `.me` 更偏向 **“我是谁，而不是我做了什么”**
 
 ---
 
-### ✨ 主要模块
+## 🧱 个人站点体系（System Architecture）
 
-- 首页英雄区（Hero Section）
-- 关于我（个人介绍）
-- 专业领域：工业IT · 系统集成 · 制造业数字化
-- 技能与技术栈展示
-- 项目作品 / 经历
-- 联系方式（邮箱、社交链接等）
-- 简历模板页面（`resume-template.html`）
+```text
+                ┌────────────────────────────┐
+                │     Kingsleyqi.com         │
+                │   主站 / Brand Core        │
+                └────────────┬───────────────┘
+                             │
+        ┌────────────────────┼────────────────────┐
+        │                    │                    │
+┌───────────────┐   ┌────────────────┐   ┌────────────────────┐
+│ Kingsleyqi.cn │   │ Kingsleyqi.me  │   │ Media.*            │
+│ 中文表达      │   │ 自我表达 / 内在 │   │ 媒体 / 资源分发     │
+└───────────────┘   └────────────────┘   └────────────────────┘
+说明：
+.com → 对外表达（认知 / 能力 / 品牌）
+.cn → 本土内容沉淀
+.me → 内在表达（状态 / 思考 / 自我）
+media → 媒体资源系统
+⚙️ 技术栈
+本项目采用现代静态站点方案构建：
+Framework: Astro / 静态站点架构
+Styling: CSS / 自定义主题
+Deployment: Cloudflare Pages / Vercel
+Content: Markdown
+特点：
+⚡ 极致轻量
+🌐 全球 CDN 分发
+🔒 无后端依赖
+📦 易于迁移与扩展
+📁 项目结构
+Bash
+.
+├── public/              # 静态资源
+├── src/
+│   ├── components/     # 组件
+│   ├── layouts/        # 页面布局
+│   ├── pages/          # 页面入口
+│   ├── styles/         # 样式
+│   └── content/        # 内容（文章/数据）
+├── astro.config.mjs    # Astro 配置
+├── package.json
+└── README.md
+🚀 本地运行
+Bash
+# 安装依赖
+npm install
 
----
+# 本地开发
+npm run dev
 
-### 📄 License
+# 构建
+npm run build
 
-本项目采用 **MIT License** 开源。
+# 预览
+npm run preview
+🌍 部署方式
+推荐平台：
+Cloudflare Pages（优先）
+Vercel
+Netlify
+Cloudflare Pages 配置
+Bash
+# 构建命令
+npm run build
 
-你可以自由使用、修改和分发代码（包括商业用途），但请保留原作者信息。
-
----
-
-### 🙋‍♂️ 作者
-
-**Kingsley Qi**  
-- GitHub: [@kingsleysqi](https://github.com/kingsleysqi)  
-- 个人品牌站: https://me.kingsleyqi.cn
-
-欢迎给项目 **Star ⭐** 支持！  
-有任何建议、问题或想一起改进，欢迎提交 Issue 或 Pull Request。
-
----
-
-**Made with ❤️ in Singapore**
-```
-
----
-
-### 使用说明：
-
-1. **替换演示图**：把你网站首页的截图上传到 `website-demo-image/` 文件夹，建议命名为 `demo.png` 或 `screenshot.png`，然后修改 Markdown 中的图片路径。
-2. 如果你想增加具体项目列表、技能图标、或更多个人介绍内容，告诉我，我可以继续帮你丰富。
-3. 需要更简洁版、更正式版、或纯英文版，也可以随时说。
-
+# 输出目录
+dist
+🧠 设计理念
+这个项目不是“做给别人看的”，而是：
+用来承载长期自我认知与表达的空间。
+核心原则：
+不迎合
+不堆信息
+不做内容农场
+保持克制与留白
+🧩 功能规划
+[x] 基础页面结构
+[x] 主题风格统一
+[ ] 内容模块细分
+[ ] 状态流（Status Stream）
+[ ] 与主站联动
+[ ] 私域表达扩展
+🔗 相关项目
+https://kingsleyqi.com⁠�
+https://kingsleyqi.cn⁠�
+https://media.kingsleyqi.com⁠�
+📄 License
+MIT License
+👤 Author
+Kingsleyqi
+Building systems, not just websites.
