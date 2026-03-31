@@ -16,7 +16,7 @@
 - [个人数字生态系统建设 · 全栈站点与基础设施（个人项目）](#) | Personal Brand & Digital Infrastructure | 2025-2026 · PH / CN | 自主规划、设计并独立完成个人全栈数字生态系统建设，涵盖国际品牌主站、中文生活表达站、基于 Cloudflare R2 的个人媒体库、工业自动化与 IT 基础设施能力中枢以及 Alist 多网盘聚合管理系统。   Independently designed and built a comprehensive personal digital ecosystem, integrating brand website, Chinese life blog, private media library (Cloudflare R2), professional systems hub for industrial automation & IT infrastructure, and multi-cloud storage aggregator (Alist).  | ./assets/images/blog-6.jpg
 
 
-- [Excel教务管理系统 · 自制教学管理工具（个人项目）](#) | Office Automation & Excel Advanced Application | 2025-2026 · CN | 工作之余自学Excel高级功能，独立耗时三个多月设计并开发一套完整的教务教学管理系统。包含任务管理、师资管理、教室管理、宿舍管理、课表关联制作等模块，并实现与Word联动输出课表。全部基于Microsoft Office套件（Excel公式、数据透视表、高级数据清洗）。/ In spare time, self-taught advanced Excel techniques and spent over three months independently building a comprehensive teaching administration system, including task management, faculty management, classroom management, dormitory management, timetable creation with Word linkage. Built entirely with Microsoft Office suite. | ./assets/images/blog-7.jpg
+- [Excel教务管理系统 · 自制教学管理工具（个人项目）](#) | Office Automation & Excel Advanced Application | 2025-2026 · CN | 工作之余自学Excel高级功能，独立耗时三个多月设计并开发一套完整的教务教学管理系统。包含任务管理、师资管理、教室管理、宿舍管理、课表关联制作等模块，并实现与Word联动输出课表。全部基于Microsoft Office套件（Excel公式、数据透视表、高级数据清洗）。   In spare time, self-taught advanced Excel techniques and spent over three months independently building a comprehensive teaching administration system, including task management, faculty management, classroom management, dormitory management, timetable creation with Word linkage. Built entirely with Microsoft Office suite. | ./assets/images/blog-7.jpg
 
 
 
