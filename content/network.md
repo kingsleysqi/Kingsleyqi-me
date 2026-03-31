@@ -2,4 +2,4 @@
 - [Website / China：Kingsleyqi.cn](https://kingsleyqi.cn) | Personal Sites | 本土内容与生活表达 | ./assets/images/project-2.jpg
 - [Website / Media：Media.Kingsleyqi.com](https://media.kingsleyqi.com) | Personal Sites | 基于 R2 的个人媒体系统 | ./assets/images/project-3.jpg
 - [Website / Systems：Me.Kingsleyqi.com](https://me.kingsleyqi.com) | Personal Sites | 工业自动化 × IT基础设施 的系统能力中枢 | ./assets/images/project-4.jpg
-- [Website / Alist：alist.Kingsleyqi.com](https://alist.kingsleyqi.com) | Personal Sites | 个人多网盘聚合管理系统 | ./assets/images/project-5.jpg
+- [Website / Alist：alist.Kingsleyqi.com](https://alist.kingsleyqi.com) | Personal Sites | 多网盘聚合·私有云盘系统 | ./assets/images/project-5.jpg
