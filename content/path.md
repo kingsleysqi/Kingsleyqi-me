@@ -10,7 +10,7 @@
 
 - 非标自动化运维工程师 | 2025年9月 — 至今 | Tyco Electronics AMP（青岛）有限公司
   Non-standard Automation Equipment Engineer | Sep 2025 — Present | Tyco Electronics AMP (Qingdao) Co., Ltd.
-  主导自动化新项目从设备导入到量产的全生命周期落地，覆盖样品验证、系统调试、试产推进及量产稳定运行。持续通过设备调优与产线流程重构提升生产稳定性与产能表现，推动项目从"可运行"向"高效稳定运行"跃迁。
+  驻菲律宾工厂，主导自动化新项目从设备导入到量产的全生命周期落地，覆盖样品验证、系统调试、试产推进及量产稳定运行。持续通过设备调优与产线流程重构提升生产稳定性与产能表现，推动项目从"可运行"向"高效稳定运行"跃迁。
 
 - 信息化总监 | 2024年8月 — 2024年12月 | 学缘教育集团
   Chief Information Officer | Aug 2024 — Dec 2024 | Xueyuan Education Group
