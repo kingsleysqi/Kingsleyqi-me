@@ -385,7 +385,7 @@ function renderContact() {
     <header><h2 class="h2 article-title">Contact</h2></header>
     <div class="quote-box">
       <p><strong>Email:</strong> i@kingsleyqi.com</p>
-      <p><strong>Phone:</strong> +63 960864508*</p>
+      <p><strong>Phone:</strong> +86 15323720640  +63 9608645088</p>
       <p><strong>Location:</strong> Batangas, Philippines</p>
     </div>
   
