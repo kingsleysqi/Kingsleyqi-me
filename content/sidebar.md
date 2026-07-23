@@ -1,5 +1,5 @@
 ![avatar](./assets/images/01.png)
-齐山川 ｜ Kingsley Qi
+齐山川  Kingsley Qi
 工业IT · 系统集成 · 制造业数字化
 Industrial IT · System Integration · Manufacturing Digital
 
