@@ -4,7 +4,7 @@
 Industrial IT · System Integration · Manufacturing Digital
 
 - Email: i@kingsleyqi.com
-- Phone: +86 15323720640 ｜ +63 9608645088
+- Phone: +86 15323720640 / +63 9608645088
 - Birthday: Aug 29, 1992
 - Location: Batangas, Philippines
 
