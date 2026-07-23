@@ -488,7 +488,7 @@ function initPDFExport() {
           </style>
           </head>
           <body>
-            <div class="header"><h1>KINGSLEY QI</h1><p>工业IT · 系统集成 · 制造业数字化</p><p>
+            <div class="header"><h1>齐山川 ｜ KINGSLEY QI</h1><p>工业IT · 系统集成 · 制造业数字化</p><p>
 Industrial IT · System Integration · Manufacturing Digital</p></div>
             ${sidebarContent}
             <div class="section"><div class="section-title">About Me</div><div class="about-text">${aboutHtml}</div></div>
