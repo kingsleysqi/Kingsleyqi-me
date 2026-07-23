@@ -494,7 +494,7 @@ Industrial IT · System Integration · Manufacturing Digital</p></div>
             <div class="section"><div class="section-title">About Me</div><div class="about-text">${aboutHtml}</div></div>
             <div class="section"><div class="section-title">人生轨迹</div><div class="path-content">${pathHtml}</div></div>
             <div class="section"><div class="section-title">Systems & Infrastructure</div>${systemsHtml}</div>
-            <div class="footer"><p>📍 ${location} | i@kingsleyqi.com | +63 960864508*</p><p>Kingsleyqi.com · Kingsleyqi.cn · Me.Kingsleyqi.com · Me.kingsleyqi.cn · Media.kingsleyqi.com</p><p>Kingsley Qi · 2026</p></div>
+            <div class="footer"><p>📍 ${location} | i@kingsleyqi.com | +86 15323720640  +63 9608645088</p><p>Kingsleyqi.com · Kingsleyqi.cn · Me.Kingsleyqi.com · Me.kingsleyqi.cn · Media.kingsleyqi.com</p><p>Kingsley Qi · 2026</p></div>
             <div class="pdf-actions"><button class="btn-print" onclick="window.print();">📄 保存为 PDF</button><button class="btn-close" onclick="window.close();">✖ 关闭预览</button></div>
           </body>
         </html>
